@@ -1,3 +1,5 @@
+*.json
+
 ### Java ###
 # Compiled class file
 *.class
